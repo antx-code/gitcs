@@ -1,0 +1,6 @@
+__pycache__/
+funcs/__pycache__/
+modules/__pycache__/
+output/
+.idea/
+/poetry.lock
